@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">R2RFootball</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_match">Match</string>
+    <string name="tab_text_1">Next Match</string>
+    <string name="tab_text_2">Last Match</string>
+    <string name="tab_favorites_1">Match</string>
+    <string name="tab_favorites_2">Favorites</string>
+    <string name="tab_team_1">Overview</string>
+    <string name="tab_team_2">Players</string>
+    <string name="tab_match_1">Goals</string>
+    <string name="tab_match_2">Lineup</string>
+    <string name="tab_match_3">Cards</string>
+    <string name="title_activity_nobass">nobass</string>
+    <string name="title_activity_team_overview">TeamOverview</string>
+</resources>
