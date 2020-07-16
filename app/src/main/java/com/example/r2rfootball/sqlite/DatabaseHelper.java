@@ -58,7 +58,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 strTeam +" TEXT," +
                 thnTeam +" INTEGER," +
                 strStadium +" TEXT," +
-                strStadium +" TEXT," +
                 str_image + " TEXT)";
 
         db.execSQL(createTableMatch);
